@@ -20,23 +20,23 @@ This repository contains my solutions to the five mandatory HackerRank problems 
 
 ### Diagonal Difference
 
-![Diagonal Difference Accepted](./screenshots/diagonal-difference.png)
+![Diagonal Difference Accepted](./screenshots/Diagonal-Difference.png)
 
 ### Dynamic Array
 
-![Dynamic Array Accepted](./screenshots/dynamic-array.png)
+![Dynamic Array Accepted](./screenshots/Dynamic-Array.png)
 
 ### Time Conversion
 
-![Time Conversion Accepted](./screenshots/time-conversion.png)
+![Time Conversion Accepted](./screenshots/Time-Conversion.png)
 
 ### Compare the Triplets
 
-![Compare the Triplets Accepted](./screenshots/compare-the-triplets.png)
+![Compare the Triplets Accepted](./screenshots/Compare-the-Triplets.png)
 
 ### Sparse Arrays
 
-![Sparse Arrays Accepted](./screenshots/sparse-arrays.png)
+![Sparse Arrays Accepted](./screenshots/Sparse-Arrays.png)
 
 ## HackerRank Badge
 
